@@ -1,0 +1,28 @@
+Brussels,Belgium,London,United Kingdom,320
+Brussels,Belgium,Madrid,Spain,1500
+Brussels,Belgium,Barcelona,Spain,1300
+Brussels,Belgium,Lyon,France,640
+Brussels,Belgium,Geneva,Switzerland,610
+Brussels,Belgium,Rome,Italy,1350
+Brussels,Belgium,Florence,Italy,1150
+London,United Kingdom,Madrid,Spain,1400
+London,United Kingdom,Barcelona,Spain,1500
+London,United Kingdom,Lyon,France,890
+London,United Kingdom,Geneva,Switzerland,1000
+London,United Kingdom,Rome,Italy,1500
+London,United Kingdom,Florence,Italy,1300
+Madrid,Spain,Barcelona,Spain,620
+Madrid,Spain,Lyon,France,1100
+Madrid,Spain,Geneva,Switzerland,1300
+Madrid,Spain,Rome,Italy,1500
+Madrid,Spain,Florence,Italy,1400
+Barcelona,Spain,Lyon,France,660
+Barcelona,Spain,Geneva,Switzerland,850
+Barcelona,Spain,Rome,Italy,1100
+Barcelona,Spain,Florence,Italy,1200
+Lyon,France,Geneva,Switzerland,140
+Lyon,France,Rome,Italy,760
+Lyon,France,Florence,Italy,760
+Geneva,Switzerland,Rome,Italy,720
+Geneva,Switzerland,Florence,Italy,670
+Rome,Italy,Florence,Italy,280

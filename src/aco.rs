@@ -118,7 +118,7 @@ impl Aco{
 
             self.evaporate_pheromones();
             self.update_pheromone(pheromone_diffs);
-            self.get_pheromone_path();
+            // self.get_pheromone_path();
         }
     }
 
@@ -164,7 +164,7 @@ impl Aco{
             for pheromone_diff in all_pheromone_diffs{
                 self.update_pheromone(pheromone_diff);
             }
-            self.get_pheromone_path();
+            // self.get_pheromone_path();
         }
     }
 

@@ -54,6 +54,7 @@ Pros:
  - Great for balancing exploration vs exploitation
  - Can be parallelized
  - Have great results with fine tuned parameters
+
 Cons:
  - Have a lot of parameters, and required fine tuning
  - Not good if you have computing limitations
